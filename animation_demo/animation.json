@@ -1,0 +1,8 @@
+{
+   "single_line_animations":[
+                             {"images":["image_home_yacht"],"fromX":300, "fromY":150, "toX":30, "toY":150, "time":3,"loop":1}
+  ],
+    "walk_animation":[
+                      {"images":["walk_person6_01","walk_person6_02","walk_person6_03","walk_person6_04"],"fromX":10, "fromY":250, "toX":300, "toY":250, "time":30,"loop":1}
+    ]
+}
